@@ -74,10 +74,6 @@ You can convert notebooks to scripts with `nbconvert` for non-interactive runs.
 - Mohammad Tyas Subianto
 - Aryanti Indah Lestari
 
-## License
-
-Add a `LICENSE.md` (e.g., MIT, CC-BY) if you intend to make the repository open-source. If unsure, discuss via an issue.
-
 ## Contact
 
 For questions or collaboration, please open an issue or contact the authors listed above.
